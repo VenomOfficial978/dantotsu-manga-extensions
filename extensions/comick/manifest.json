@@ -1,8 +1,0 @@
-{
-  "name": "Comick",
-  "pkg": "comick.en",
-  "lang": "en",
-  "version": "1.0.0",
-  "baseUrl": "https://comick.io",
-  "nsfw": false
-}
